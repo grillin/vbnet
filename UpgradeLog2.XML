@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ven006">
+</Property><Property Name="Archivo de la solución" Value="C:\sistemas\ven006\ven006.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\sistemas\ven006\ven006.suo">
+</Property><Property Name="Date" Value="martes, 14 de enero de 2014">
+</Property><Property Name="Time" Value="08:10">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ven006.sln" Description="La copia C:\sistemas\ven006\Backup\ven006.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ven006.suo" Description="La copia C:\sistemas\ven006\Backup\ven006.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="4" Project="ven006" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Advertencia: este proyecto requiere Crystal Reports, que ya no se incluye con Visual Studio. Haga clic aquí para obtener más información.">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\sistemas\ven006\Backup\ven006.vbproj">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006.vbproj.user" Description="La copia de seguridad C:\sistemas\ven006\Backup\ven006.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="ven006" Source="AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="Clases.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\Clases.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="general.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\general.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="pedidos.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\pedidos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="pedidos.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\pedidos.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006a.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006a.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006b.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006b.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006r.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006r.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006s.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006s.vb">
+</Event><Event ErrorLevel="0" Project="ven006" Source="App.config" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="ven006" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ven006" Source="pedidos.xsc" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\pedidos.xsc">
+</Event><Event ErrorLevel="0" Project="ven006" Source="pedidos.xsd" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\pedidos.xsd">
+</Event><Event ErrorLevel="0" Project="ven006" Source="pedidos.xss" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\pedidos.xss">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006a.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006a.resx">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006b.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006b.resx">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006r.rpt" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006r.rpt">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006s.rpt" Description="Se realizó correctamente la copia de seguridad del archivo C:\sistemas\ven006\Backup\ven006s.rpt">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ven006" Source="ven006.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="cdata" Source="..\cdata\cdata.vbproj" Description="Advertencia: se está haciendo una copia de seguridad del archivo de proyecto en una ruta de acceso relativa que es diferente de la ruta de acceso relativa de la solución original. La diferencia en la jerarquía de carpetas puede crear problemas al abrir o gene">
+</Event><Event ErrorLevel="2" Project="cdata" Source="..\cdata\cdata.vbproj" Description="No se puede abrir el archivo de proyecto para realizar la actualización.  ">
+</Event><Event ErrorLevel="0" Project="" Source="ven006.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ven006.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ven006" Source="ven006.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
